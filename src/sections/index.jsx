@@ -2,7 +2,7 @@ import Hero from "./Hero";
 import PopularProducts from "./PopularProducts";
 import SuperQuality from "./SuperQuality";
 import Services from "./Services";
-import SpecialOffers from "./SpecialProducts";
+import SpecialProducts from "./SpecialProducts";
 import CustomerReviews from "./CustomerReviews";
 import Subscribe from "./Subscribe";
 import Footer from "./Footer";
@@ -14,7 +14,7 @@ Footer,
 Hero,
 PopularProducts,
 Services,
-SpecialOffers,
+SpecialProducts,
 Subscribe,
 SuperQuality,
 };

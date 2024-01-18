@@ -1,6 +1,6 @@
 import { hamburger } from "../assets/icons";
 import { headerLogo } from "../assets/images";
-import { navLinks } from "../components";
+import { navLinks } from "../constants/index";
 import React from "react";
  
 const Nav = () => {
