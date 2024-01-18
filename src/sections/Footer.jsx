@@ -1,6 +1,6 @@
 import { copyrightSign } from "../assets/icons";
 import { footerLogo } from "../assets/images";
-import { FooterLinks, socialMedia } from "../constants";
+import { FooterLinks, socialMedia } from "../constants/index.js";
 
 const Footer = () => {
   return (
